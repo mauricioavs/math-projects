@@ -8,3 +8,5 @@ Proyectos relacionados a programación
 3. aproxmación EDPs: Usando la técnica FPM (Finite Pointset Method), en una región en 2D se aproxima la EDP tipo Poisson correspondiente.
 
 4. XOR: Se entrena una red neuronal con una capa oculta para resolver el problema XOR.
+
+5. Classification: Se entrena una CNN para clasificar imágenes de 5 tipos de flores.
