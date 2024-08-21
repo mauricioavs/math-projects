@@ -1,12 +1,12 @@
-# proyectos
-Proyectos relacionados a programación
+# Projects
+Programming-related projects
 
-1. Solow Swan: Se replican ajustes económicos de algunos países ajustando los datos a una curva de tipo Solow-Swan
+Solow Swan: Replicates economic adjustments of some countries by fitting the data to a Solow-Swan type curve.
 
-2. Ajuste COVID: Usando el método de Broyden, se busca ajustar los datos de muertes por Covid 19 a una curva de la forma de la ecuación logística generalizada, la cual es usada para describir el comportamiento de poblaciones.
+COVID Adjustment: Using the Broyden method, attempts to fit COVID-19 death data to a curve of the generalized logistic equation, which is used to describe population behavior.
 
-3. aproxmación EDPs: Usando la técnica FPM (Finite Pointset Method), en una región en 2D se aproxima la EDP tipo Poisson correspondiente.
+PDE Approximation: Approximates a Poisson-type PDE in a 2D region using the Finite Pointset Method (FPM).
 
-4. XOR: Se entrena una red neuronal con una capa oculta para resolver el problema XOR.
+XOR: Trains a neural network with a hidden layer to solve the XOR problem.
 
-5. Classification: Se entrena una CNN para clasificar imágenes de 5 tipos de flores.
+Classification: Trains a CNN to classify images of 5 types of flowers.
